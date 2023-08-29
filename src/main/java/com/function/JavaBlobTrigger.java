@@ -2,8 +2,6 @@ package com.function;
 
 import com.microsoft.azure.functions.annotation.*;
 import com.microsoft.azure.functions.*;
-import com.azure.identity.DefaultAzureCredential;
-import com.azure.identity.DefaultAzureCredentialBuilder;
 import com.azure.identity.ManagedIdentityCredential;
 import com.azure.identity.ManagedIdentityCredentialBuilder;
 import com.azure.storage.blob.*;
